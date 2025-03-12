@@ -5,7 +5,7 @@ import tensorflow as tf
 app = Flask(__name__)
 
 # 📌 Load Trained Model
-model = tf.keras.models.load_model("digit_model_improved.h5")  # Use Improved Model
+model = tf.keras.models.load_model("digit_model_improved.keras")  # Use Improved Model
 
 @app.route("/predict", methods=["POST"])
 def predict():
