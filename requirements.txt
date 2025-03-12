@@ -71,7 +71,7 @@ parso==0.8.3
 pillow==10.4.0
 platformdirs==4.1.0
 prompt-toolkit==3.0.43
-protobuf==5.29.2
+protobuf==3.20.3 
 psutil==5.9.7
 pure-eval==0.2.2
 pyarrow==18.1.0
