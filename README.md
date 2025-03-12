@@ -24,8 +24,8 @@ This project is a **Handwritten Digit Recognition System** that allows users to 
 ## 🛠️ Installation
 ### 🔧 Clone the Repository
 ```bash
-git clone https://github.com/abhayviradiya04/Handwritten_digit_recognize.git
-cd Handwritten_digit_recognize
+git clone https://github.com/abhayviradiya04/Handwritten-Digit-Recognition.git
+cd Handwritten-Digit-Recognition
 ```
 
 ### ⚙️ Install Dependencies
